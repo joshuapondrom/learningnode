@@ -14,6 +14,7 @@
   "author": "Joshua Pondrom",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.6.0",
     "lodash": "^4.17.10"
   },
   "devDependencies": {
