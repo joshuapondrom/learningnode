@@ -19,6 +19,7 @@
     "lodash": "^4.17.10"
   },
   "devDependencies": {
+    "eslint-config-google": "^0.9.1",
     "mocha": "^5.1.1"
   }
 }

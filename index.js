@@ -1,3 +1,5 @@
+// Using Express as a http server
+// Express has a router by default
 const express = require('express')
 const app = express()
 const port = 3000
