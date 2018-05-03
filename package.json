@@ -16,10 +16,15 @@
   "dependencies": {
     "async": "^2.6.0",
     "express": "^4.16.3",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.10",
+    "pixi.js": "^4.7.3"
   },
   "devDependencies": {
-    "eslint-config-google": "^0.9.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0",
     "mocha": "^5.1.1"
   }
 }
