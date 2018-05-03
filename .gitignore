@@ -1,6 +1,10 @@
+# Node
 node_modules
 *.log
 .eslintrc.js
 
 # IDE's
 .vscode
+
+# Config
+config.json
